@@ -9,3 +9,4 @@ true
 echo $user["name"];
 echo $user[0]; 
 echo $user[login]; 
+echo $user[password]; 
